@@ -15,7 +15,9 @@ To keep up with Violet Moon, you can follow us on the following channels:
 * Discord's #annoucements channel: http://discord.gg/vm
 * Mailing List (read the sidebar of that webpage): https://lists.sr.ht/~williewillus/violet-moon-announce
 
-The Twitter and Discord tend to be more active, and require being logged in to social media accounts. The mailing list contains more high-signal announcements, usually just release announcements for mods, and does not require anything except an email account.
+The Twitter and Discord tend to be more active, and require being logged in to social media accounts.
+
+The mailing list contains only high-signal announcements, usually just release announcements for mods. You can freely browse the archives without an account, or subscribe with any email address to be emailed when announcements are made.
 
 ## Contributing
-Each Violet Moon project is run by a different set of team members and may have different contribution guidelines. Please see the individual repositories for more information.
+Each Violet Moon project is run by a different set of team members and may have different contribution guidelines. Please see the individual repositories' CONTRIBUTING.md for more information.
