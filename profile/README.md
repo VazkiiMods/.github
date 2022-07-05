@@ -3,7 +3,7 @@
 This is the GitHub organization for Violet Moon, a team established in 2011 that produces high-quality Minecraft
 mods and modpacks. You can learn more about us on our [website](https://violetmoon.org/).
 
-Here you can find all the upstream repositories for our various mods.
+Here you can find all the upstream repositories for our various mods. Some of our projects also have a presence on [SourceHut](https://sr.ht/~williewillus/violet-moon/)
 
 ## FAQ
 Please visit [Vazkii's Notion](https://vazkii.notion.site/Violet-Moon-FAQ-ddd80d35a63d4d268396dc09f8f9236e) for answers to Frequently Asked Questions about our mods.
