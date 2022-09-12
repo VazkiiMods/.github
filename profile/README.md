@@ -12,7 +12,7 @@ Please visit [Vazkii's Notion](https://vazkii.notion.site/Violet-Moon-FAQ-ddd80d
 To keep up with Violet Moon, you can follow us on the following channels:
 
 * Twitter: https://twitter.com/vazkiimods
-* Discord's #annoucements channel: http://discord.gg/vm
+* Discord's #announcements channel: http://discord.gg/vm
 * Mailing List (read the sidebar of that webpage): https://lists.sr.ht/~williewillus/violet-moon-announce
 
 The Twitter and Discord tend to be more active, and require being logged in to social media accounts.
