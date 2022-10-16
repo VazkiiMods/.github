@@ -11,13 +11,32 @@ Please visit [Vazkii's Notion](https://vazkii.notion.site/Violet-Moon-FAQ-ddd80d
 ## Announcements
 To keep up with Violet Moon, you can follow us on the following channels:
 
-* Twitter: https://twitter.com/vazkiimods
-* Discord's #announcements channel: http://discord.gg/vm
+Open platforms:
 * Mailing List (read the sidebar of that webpage): https://lists.sr.ht/~williewillus/violet-moon-announce
+
+Closed/Proprietary platforms:
+* Twitter: https://twitter.com/vazkiimods
+* Discord's #announcements channel: https://discord.gg/vm
 
 The Twitter and Discord tend to be more active, and require being logged in to social media accounts.
 
 The mailing list contains only high-signal announcements, usually just release announcements for mods. You can freely browse the archives without an account, or subscribe with any email address to be emailed when announcements are made.
+
+## Community
+You can use the following channels to discuss our mods with others:
+
+Open platforms:
+* IRC: #vazkii on irc.esper.net
+* Mailing List: ~williewillus/violet-moon@lists.sr.ht
+
+Closed/Proprietary platforms:
+* Discord: https://discord.gg/vm
+* Reddit:
+  * Botania: /r/botania
+  * Psi: /r/psispellcompendium
+  * Quark: /r/QuarkMod
+
+Usually Discord is the most active, followed by IRC, Reddit, and the mailing list.
 
 ## Contributing
 Each Violet Moon project is run by a different set of team members and may have different contribution guidelines. Please see the individual repositories' CONTRIBUTING.md for more information.
