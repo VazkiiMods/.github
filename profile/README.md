@@ -26,8 +26,8 @@ The mailing list contains only high-signal announcements, usually just release a
 You can use the following channels to discuss our mods with others:
 
 Open platforms:
-* IRC: #vazkii on irc.esper.net
-* Mailing List: ~williewillus/violet-moon@lists.sr.ht
+* IRC: #vazkii on irc.esper.net ([webchat](https://webchat.esper.net/?channels=vazkii))
+* Mailing List: [~williewillus/violet-moon@lists.sr.ht](mailto:~williewillus/violet-moon@lists.sr.ht) ([archives](https://lists.sr.ht/~williewillus/violet-moon))
 
 Closed/Proprietary platforms:
 * Discord: https://discord.gg/vm
