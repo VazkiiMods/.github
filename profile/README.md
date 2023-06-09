@@ -42,3 +42,9 @@ Usually Discord is the most active, followed by IRC, Reddit, and the mailing lis
 
 ## Contributing
 Each Violet Moon project is run by a different set of team members and may have different contribution guidelines. Please see the individual repositories' CONTRIBUTING.md for more information.
+
+## Signing
+In the near future, releases of our mods will start to be accompanied by `.asc` PGP
+signature files. These signatures will be signed by a key with ID
+`C55FFFF9E4E4C0C09AB04B7C704178B3439DADC3`. See the [security page](security/README.md)
+for details about how to verify that a JAR came from Violet Moon.
