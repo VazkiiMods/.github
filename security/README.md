@@ -25,7 +25,7 @@ Primary key fingerprint: C55F FFF9 E4E4 C0C0 9AB0  4B7C 7041 78B3 439D ADC3
 ```
 
 The warning at the end is GPG saying "Yes, this public key C55F... created the
-signature. But it can't be proven that this public key is the key that it states that it
-is ("Violet Moon Signing Key").
+signature. But it can't be proven that this public key is actually the real 'Violet Moon
+Signing Key'".
 
 This document, uploaded to Violet Moon's GitHub organization, proves that last gap.
