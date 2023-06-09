@@ -46,5 +46,5 @@ Each Violet Moon project is run by a different set of team members and may have 
 ## Signing
 In the near future, releases of our mods will start to be accompanied by `.asc` PGP
 signature files. These signatures will be created by a key with fingerprint
-`C55FFFF9E4E4C0C09AB04B7C704178B3439DADC3`. See the [security page](../security/README.md)
+`C55FFFF9E4E4C0C09AB04B7C704178B3439DADC3`. See the [security page](https://github.com/VazkiiMods/.github/blob/main/security/README.md)
 for details about how to verify that a JAR came from Violet Moon.
