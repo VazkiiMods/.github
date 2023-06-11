@@ -29,3 +29,10 @@ signature. But it can't be proven that this public key is actually the real 'Vio
 Signing Key'".
 
 This document, uploaded to Violet Moon's GitHub organization, proves that last gap.
+
+## But what if your private key gets stolen?
+We're using GitHub actions' [encrypted secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) to store the private key.
+This means the key is never actually present on any developer's machine (in fact, you can't get it back out of the encrypted secrets page after you put it in).
+
+If GitHub gets compromised and leaks the key, the world will have much much bigger problems. Of course, a developer can still push malicious code, but
+we are relying on the open source model to keep us honest here.
