@@ -42,3 +42,7 @@ This means the key is never actually present on any developer's machine (in fact
 
 If GitHub gets compromised and leaks the key, the world will have much much bigger problems. Of course, a developer can still push malicious code, but
 we are relying on the open source model to keep us honest here.
+
+## What if a jar is infected locally?
+The uploading of releases happens entirely in GitHub actions. Developers do not need to download and submit the files themself.
+As above, the only time this will actually be a problem is if GitHub itself is compromised.
