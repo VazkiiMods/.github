@@ -28,17 +28,15 @@ The mailing list contains only high-signal announcements, usually just release a
 You can use the following channels to discuss our mods with others:
 
 Open platforms:
-* IRC: #vazkii on irc.esper.net ([webchat](https://webchat.esper.net/?channels=vazkii))
-* Mailing List: [~williewillus/violet-moon@lists.sr.ht](mailto:~williewillus/violet-moon@lists.sr.ht) ([archives](https://lists.sr.ht/~williewillus/violet-moon))
+* IRC: #vazkii on irc.esper.net (note: You must identify with NickServ)
+* Discussion Mailing List: [~williewillus/violet-moon-social@lists.sr.ht](mailto:~williewillus/violet-moon-social@lists.sr.ht) ([archives](https://lists.sr.ht/~williewillus/violet-moon-social))
+* Development Mailing List: [~williewillus/violet-moon@lists.sr.ht](mailto:~williewillus/violet-moon@lists.sr.ht) ([archives](https://lists.sr.ht/~williewillus/violet-moon))
 
 Closed/Proprietary platforms:
 * Discord: https://discord.gg/vm
 * Reddit:
-  * Botania: /r/botania
   * Psi: /r/psispellcompendium
   * Quark: /r/QuarkMod
-
-Usually Discord is the most active, followed by IRC, Reddit, and the mailing list.
 
 ## Contributing
 Each Violet Moon project is run by a different set of team members and may have different contribution guidelines. Please see the individual repositories' CONTRIBUTING.md for more information.
