@@ -29,7 +29,7 @@ You can use the following channels to discuss our mods with others:
 
 Open platforms:
 * IRC: #vazkii on irc.esper.net (note: You must identify with NickServ)
-* Forums: https://forum.violetmoon.org
+* Forums: https://forum.violetmoon.org/tags
 * Development Mailing List: [~williewillus/violet-moon@lists.sr.ht](mailto:~williewillus/violet-moon@lists.sr.ht) ([archives](https://lists.sr.ht/~williewillus/violet-moon))
 
 Closed/Proprietary platforms:
