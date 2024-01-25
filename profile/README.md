@@ -14,13 +14,11 @@ Please visit [Vazkii's Notion](https://vazkii.notion.site/Violet-Moon-FAQ-ddd80d
 To keep up with Violet Moon, you can follow us on the following channels:
 
 Open platforms:
-* Forum Announcements: https://forum.violetmoon.org/t/announcement
+* Forum Announcements: https://forum.violetmoon.org/t/announcement (includes RSS/Atom feeds)
 
 Closed/Proprietary platforms:
 * Discord's #announcements channel: https://discord.gg/vm
 * Twitter: https://twitter.com/vazkiimods
-
-The mailing list contains only high-signal announcements, usually just release announcements for mods. You can freely browse the archives without an account, or subscribe with any email address to be emailed when announcements are made.
 
 ## Community
 You can use the following channels to discuss our mods with others:
