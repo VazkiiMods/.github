@@ -14,7 +14,6 @@ Please visit [Vazkii's Notion](https://vazkii.notion.site/Violet-Moon-FAQ-ddd80d
 To keep up with Violet Moon, you can follow us on the following channels:
 
 Open platforms:
-* Mailing List (read the sidebar of that webpage): https://lists.sr.ht/~williewillus/violet-moon-announce
 * Forum Announcements: https://forum.violetmoon.org/t/announcement
 
 Closed/Proprietary platforms:
