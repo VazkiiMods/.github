@@ -15,10 +15,10 @@ To keep up with Violet Moon, you can follow us on the following channels:
 
 Open platforms:
 * Forum Announcements: https://forum.violetmoon.org/t/announcement (includes RSS/Atom feeds)
+* BlueSky: https://bsky.app/profile/violetmoon.org
 
 Closed/Proprietary platforms:
 * Discord's #announcements channel: https://discord.gg/vm
-* Twitter: https://twitter.com/vazkiimods
 
 ## Community
 You can use the following channels to discuss our mods with others:
